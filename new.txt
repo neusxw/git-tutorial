@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 # Git½Ì³Ì
 hello!!!
 - feature-A
+- fix-B
