@@ -4,3 +4,5 @@ hello!!!
 - feature-A
 - fix-B
 - feature-C
+- feature-D
+另一个本地仓库
